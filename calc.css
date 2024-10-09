@@ -1,0 +1,23 @@
+#calc {
+    border:1px solid rgb(200, 191, 191);
+    border-radius: 5px;
+    color:black;
+    width: 200px;
+    
+}
+#display{
+  margin: 10px;
+  width: 175px; 
+  font-size: 25px; 
+}
+.button{
+  height: 50px;
+  width: 50px;
+  margin:2px;
+}
+.btn-cont{
+  display: flex;
+  justify-content: center;
+  margin: 4px;
+  flex-wrap: wrap;
+}
